@@ -1,0 +1,6 @@
+print('Digite dia, mês e ano: ')
+dia = int(input('Dia: '))
+mês = input('Mês: ')
+ano = float(input('Ano: '))
+print('Você nasceu no dia %d de %s de %d. Correto?' % (dia, mês, ano))
+print('   ')
